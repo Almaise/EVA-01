@@ -12,7 +12,7 @@ canvas.height = 970;
 ctx.drawImage(myImage, 0, 0, canvas.width, canvas.height);
 
 let particlesArray =[];
-const numberOfParticles = 10000;
+const numberOfParticles = 5000;
 
 
 class Particle {
